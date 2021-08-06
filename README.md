@@ -1,4 +1,7 @@
 Oi eu sou Camila Luiza
+
+Estudante de Sistemas de informação, com conhecimento em linguagem da programação,front-End e redes.
+Estou a procura de uma oportunidade na area
  
 <div> 
   <a href="https://www.instagram.com/camilaluyza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
