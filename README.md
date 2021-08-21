@@ -1,6 +1,6 @@
 Oi eu sou Camila Luiza
 
-Estudante de Sistemas de informação, com conhecimento em linguagem da programação,front-End e redes.
+Estudante de Sistemas de informação, com conhecimento em linguagem da programação,front-End, redes e instalação e configurações de Hardwares.
 Estou a procura de uma oportunidade na area
  
 <div> 
