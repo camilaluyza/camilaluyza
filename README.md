@@ -1,7 +1,15 @@
 Oi eu sou Camila Luiza
 
-Estudante de Sistemas de informação, com conhecimento em linguagem da programação,front-End, redes e instalação e configurações de Hardwares.
-Estou a procura de uma oportunidade na area
+Sou apaixonada por tecnologia e novidades, estou em transição de carreira, não possuo experiências na área de TI, mas tenho bastante conhecimento e procuro uma oportunidade na área.
+Atualmente cursando Faculdade de Sistemas de informação e cursos na área DevOps.
+
+Possuo capacidade de análise, escrita, raciocínio lógico, dinâmica, comunicativa e proativa.
+
+Bastante conhecimento em configuração de redes, impressoras, computadores ,sistemas operacionais, HTML, CCS, Javascript e GIT.
+Suporte e resolução de problemas.
+
+
+Conhecimento em Front-End
  
 <div> 
   <a href="https://www.instagram.com/camilaluyza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
