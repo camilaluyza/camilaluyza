@@ -1,15 +1,16 @@
 Oi eu sou Camila Luiza
 
-Sou apaixonada por tecnologia e novidades, estou em transição de carreira, não possuo experiências na área de TI, mas tenho bastante conhecimento e procuro uma oportunidade na área.
-Atualmente cursando Faculdade de Sistemas de informação e cursos na área DevOps.
+Sou apaixonada por tecnologia e novidades.
 
-Possuo capacidade de análise, escrita, raciocínio lógico, dinâmica, comunicativa e proativa.
+Tenho facilidade em aprendizado, capacidade de análise, escrita, dinâmica, comunicativa e proativa.
 
-Bastante conhecimento em configuração de redes, impressoras, computadores ,sistemas operacionais, HTML, CCS, Javascript e GIT.
-Suporte e resolução de problemas.
+Não possuo experiências profissionais na área de TI. 
+Experiência com configuração de redes, impressoras, desktops ,hardwares e sistemas operacionais (linux e Windows .
 
+Conhecimentos em HTML, CCS, Javascript, React JS, Vue.js ,Angular e Git.
+Sql, Mysql, virtualização e nuvem.
 
-Conhecimento em Front-End
+Atualmente estou cursando Faculdade de Sistemas de informação e cursos na área DevOps.
  
 <div> 
   <a href="https://www.instagram.com/camilaluyza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
