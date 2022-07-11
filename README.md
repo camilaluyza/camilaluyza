@@ -4,7 +4,7 @@ Sou apaixonada por tecnologia e novidades.
 
 Tenho facilidade em aprendizado, capacidade de análise, escrita, dinâmica, comunicativa e proativa.
 
-Não possuo experiências profissionais na área de TI. 
+Atualmente estou estagiando em uma empresa na area de redes. 
 Experiência com configuração de redes, impressoras, desktops ,hardwares e sistemas operacionais (linux e Windows .
 
 Conhecimentos em HTML, CCS, Javascript, React JS, Vue.js ,Angular e Git.
