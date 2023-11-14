@@ -1,16 +1,11 @@
-Oi eu sou Camila Luiza
+Atuando na área de telecomunicações em suporte de redes, monitoramento e atendimento.
 
-Sou apaixonada por tecnologia e novidades.
+Possuo um perfil  analítico, dinâmico, pro ativo ,ótimo relacionamento interpessoal, facilidade de adaptação ,capacidade de aprender e assimilar novos conhecimentos.
 
-Tenho facilidade em aprendizado, capacidade de análise, escrita, dinâmica, comunicativa e proativa.
+Analise, Suporte e configuração  ONU, switch, roteadores, protocolos de redes e monitoramento.
+Instalação e implantação de sistemas. Configurações de hardwares e sistemas operacionais(Linux e Windows).
 
-Atualmente estou estagiando em uma empresa na area de redes. 
-Experiência com configuração de redes, impressoras, desktops ,hardwares e sistemas operacionais (linux e Windows).
-
-Conhecimentos em HTML, CCS, Javascript, React JS, Vue.js ,Angular e Git.
-Sql, Mysql, virtualização e nuvem.
-
-Atualmente estou cursando Faculdade de Sistemas de informação e cursos na área DevOps.
+Conhecimento em desenvolvimento HTML, Css, Javascript, Java e virtualização.
  
 <div> 
   <a href="https://www.instagram.com/camilaluyza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
